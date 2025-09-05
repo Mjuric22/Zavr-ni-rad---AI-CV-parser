@@ -1,4 +1,4 @@
-# CV Parser - Pametni CV Parser i Generator Profila Kandidata
+# Završni rad - CV Parser - Pametni CV Parser i Generator Profila Kandidata
 
 **Napravio: Matej Jurić**  
 **Godina: 2025**
