@@ -26,12 +26,12 @@ docstrange-main/
 ## 🏃‍♂️ Brzo pokretanje
 
 1. **Instaliraj dependencies:**
-   ```bash
+```bash
    pip install -r cv_requirements.txt
-   ```
+```
 
 2. **Pokreni aplikaciju:**
-   ```bash
+```bash
    python cv_parser_app.py
    ```
 
