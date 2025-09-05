@@ -39,11 +39,6 @@ docstrange-main/
 
 4. **Otvori** http://localhost:5000 u pregledniku
 
-## 🔑 Sigurnost
-
-- **Nema hardcodiranih API ključeva** u kodu
-- **Sigurno za GitHub** - API ključ se unosi pri pokretanju
-- **Neće se spremiti** u datoteku
 
 ## 📖 Detaljna dokumentacija
 
